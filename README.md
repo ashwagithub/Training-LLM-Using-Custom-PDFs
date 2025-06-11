@@ -11,9 +11,9 @@ This project solves the problem of navigating large PDF files manually. Instead,
 
 ---
 
-## 📸 Demo Screenshot
+## 📸 Chat_With-PDFs
 
-> 💡 Replace this with your actual screenshot.
+> 💡 User Interface.
 
 <p align="center">
   <img src="assets/main.png" width="600" alt="Chatbot Demo Screenshot" />
